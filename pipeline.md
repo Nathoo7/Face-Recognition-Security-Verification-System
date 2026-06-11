@@ -14,7 +14,7 @@ The workflow includes model training, embedding extraction, evaluation, and face
 
 ### CASIA-WebFace Dataset
 Download:
-[CASIA-WebFace Dataset](https://drive.google.com/drive/folders/1XHgTCr-zgWh2E0ym7B3ZGVifB2VvmSBj?usp=drive_link)
+[CASIA-WebFace Dataset](https://drive.google.com/file/d/138IQPsG54qHdd4YXk0QnLzoXqFrQ4QKy/view?usp=sharing)
 
 Dataset folder:
 
@@ -28,6 +28,8 @@ train_me/
 ---
 
 ### Imperial College Dataset
+Download:
+[Imperial College Dataset](https://drive.google.com/file/d/1_Jmyw_l3AhjsclfAeiMoTK0-YhXftjH3/view?usp=sharing)
 
 Dataset folder:
 
