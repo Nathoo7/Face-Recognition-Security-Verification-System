@@ -20,10 +20,9 @@ Dataset folder:
 
 ```text
 train_me/
-└── CASIA-WebFace/
-    ├── train/
-    ├── validation/
-    └── test/
+├── train/
+├── validation/
+└── test/
 ```
 
 ---
