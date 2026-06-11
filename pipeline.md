@@ -221,3 +221,4 @@ These JSON files store facial descriptors used for identity verification.
         v                             v
 face_descriptors_casia.json   face_descriptors_imperial.json
 ```
+Ps.: In the research, Casia-WebFace uses m = 0.25, while Imperial College Dataset uses m = 0.50. m is the margin of penalty for ArcFace, which is the parameters for promoting inter-class separation and intra-class compactness
